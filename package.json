@@ -25,7 +25,7 @@
     "pinia": "^2.1.7",
     "vue": "^3.4.27",
     "vue-demi": "^0.14.7",
-    "vue-i18n": "^9.13.1",
+    "vue-i18n": "^11.0.1",
     "vue-router": "^4.3.2"
   },
   "devDependencies": {
@@ -49,8 +49,8 @@
     "https-localhost": "^4.7.1",
     "lint-staged": "^15.2.2",
     "markdown-it-link-attributes": "^4.0.1",
-    "pnpm": "^9.1.1",
-    "rollup": "^4.17.2",
+    "pnpm": "^9.15.0",
+    "rollup": "^4.22.4",
     "shiki": "^1.6.0",
     "simple-git-hooks": "^2.11.1",
     "taze": "^0.13.8",
@@ -61,7 +61,7 @@
     "unplugin-vue-macros": "^2.9.2",
     "unplugin-vue-markdown": "^0.26.2",
     "unplugin-vue-router": "^0.8.6",
-    "vite": "^5.2.11",
+    "vite": "^5.4.12",
     "vite-bundle-visualizer": "^1.2.1",
     "vite-plugin-inspect": "^0.8.4",
     "vite-plugin-pwa": "^0.20.0",
